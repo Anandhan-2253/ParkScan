@@ -1,0 +1,10 @@
+parkinson_ML/
+├── README.md
+├── requirements.txt
+├── train.py
+├── debugging                     
+├── model/
+│   └── model.h5           # Trained model saved here
+├── data/
+│   └── cleaned_parkinson_data.csv
+├── venv/                          
